@@ -1,0 +1,8 @@
+.navbar-brand{
+    font-family: fantasy;
+    font-size: large;
+    max-width: 1200px;
+    min-width: 100px;
+    display: flex;
+
+}
